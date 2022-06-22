@@ -3,7 +3,7 @@
 - :+1: Meu email de contato éfelipe.constantini.santos@escola.pr.gov.br
 - :Eu estou interessado em aprender novas linguagens 
 - 🌱 eu estou aprendendo recentemente a programar linguagens JavaScript e Scratch
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 
 - 
 
 <!---
